@@ -1,5 +1,5 @@
 ### VanillaTemporalPooling
-Created by <a href="https://github.com/zlw9161">Liwen Zhang</a> from Speech Lab @ Harbin Institute of Technology, Harbin, China.
+Created by <a href="https://github.com/zlw9161">Liwen Zhang</a>, Jiqing Han and Shiwen Deng from Speech Lab @ Harbin Institute of Technology, Harbin, China.
 
 ### Citation
 If you find our work useful in your research, please cite:
