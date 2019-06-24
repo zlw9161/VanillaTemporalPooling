@@ -4,7 +4,7 @@ Created by <a href="https://github.com/zlw9161">Liwen Zhang</a> from Speech Lab 
 ### Citation
 If you find our work useful in your research, please cite:
 
-        @article{liu:2019:cpnet,
+        @article{zhang:2018:temporal pooling,
           title={Unsupervised Temporal Feature Learning Based on Sparse Coding Embedded BoAW},
           author={Liwen Zhang, Jiqing Han and Shiwen Deng},
           conference={Interspeech},
