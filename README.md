@@ -46,7 +46,7 @@ Generate audio representations with BoAW/BoAW_SC features;
 Train the svm classifier with the audio representations;
 
 ### License
-Our code is released under MIT License (see LICENSE file for details).
+Our code is released under our License (see LICENSE file for details).
 
 ### Related Projects
 * [TASLP 2017 paper - AENet: Learning Deep Audio Features for Video Analysis](http://arxiv.org/pdf/1701.00599) by Naoya Takahashi et al.
