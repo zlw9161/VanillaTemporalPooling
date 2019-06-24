@@ -1,21 +1,19 @@
-MIT License
+License
 
 Copyright (c) 2019 Liwen Zhang
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+The analysis work performed with the program(s) must be non-proprietary work. 
+Licensee and its contract users must be or be affiliated with an academic facility. 
+Licensee may additionally permit individuals who are students at such academic facility 
+to access and use the program(s). Such students will be considered contract users of licensee. 
+The program(s) may not be used for commercial competitive analysis 
+(such as benchmarking) or for any commercial activity, including consulting.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Terms of use
+This VanillaTemporalPooling software is strictly for non-commercial academic use only. 
+This VanillaTemporalPooling software code or any modified version of it may not be used for any commercial activity, such as:
+1. Commercial production development, Commercial production design, design validation or design assessment work.
+2. Commercial manufacturing engineering work
+3. Commercial research.
+4. Consulting work performed by academic students, faculty or academic account staff
+5. Training of commercial company employees.
