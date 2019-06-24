@@ -18,7 +18,7 @@ Vanilla Temporal Pooling is an unsupervised temporal feature learning method, wh
 * Liwen Zhang (lwzhang9161@126.com and 15B903062@hit.edu.cn)
 
 ### Work Environment
-* Matlab 2016b or 2018b
+* Matlab 2016b or 2018a
 
 ### Dependency
 * vlfeat-0.9.20
